@@ -23,7 +23,7 @@ repository               : "fmergenhagen/fmergenhagen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Felix C. L. Mergenhagen"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in energy economics"
@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : og-image.png   # Social media default site image (lives in /images/)
+og_image                 : profile.jpg   # Social media default site image (lives in /images/)
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
