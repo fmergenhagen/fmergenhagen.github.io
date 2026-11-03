@@ -35,11 +35,9 @@ lapland:
 
 A few pictures from fieldwork and travels. Click on a photo to see it in full size.
 
-## Madagascar, 2024
+## Lapland, 2022
 
-Part of my fieldwork for my master's thesis on energy access in Antongil Bay.
-
-{% include gallery id="madagascar" %}
+{% include gallery id="lapland" %}
 
 ## Mongolia, 2023
 
@@ -47,16 +45,18 @@ During my studies in China.
 
 {% include gallery id="mongolia" %}
 
-## Tibet, 2025
+## Tibet, 2024
 
 During my studies in China.
 
 {% include gallery id="tibet" %}
 
+## Madagascar, 2024
+
+Part of my fieldwork for my master's thesis on energy access in Antongil Bay.
+
+{% include gallery id="madagascar" %}
+
 ## Lasörling, Austria, 2026
 
 {% include gallery id="lasoerling" %}
-
-## Lapland, 2023
-
-{% include gallery id="lapland" %}
